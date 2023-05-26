@@ -77,7 +77,7 @@ namespace Students
 
 ## Output:
 ![r1](https://user-images.githubusercontent.com/94525786/225648681-7feea749-2e5a-437e-8ff7-9534eeb24137.png)
-![r2](https://user-images.githubusercontent.com/94525786/225648715-bbcc223d-5471-436f-b4f7-115aa2a5ffcd.png)
+)
 
 
 ## Result:
