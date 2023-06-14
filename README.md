@@ -1,4 +1,4 @@
-#EX-NO-1 Eligibility-for-Admission
+# EX-NO-1 Eligibility-for-Admission
 
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course.
